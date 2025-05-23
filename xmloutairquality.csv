@@ -1,0 +1,16 @@
+station name,nitrogen dioxide,ozone,carbon monoxide,sulphur dioxide,particulate matter 10,particulate matter 2.5,particle tsp,visibility
+Mountain Creek, 0.001, 0.017, , , 20, , , 33
+Deception Bay, 0.002, 0.018, , , , , , 
+Wynnum, 0.007, , , , 16.4, 5.3, , 
+Wynnum West, , , , , 14.7, 4.8, , 
+Lytton, , , , , 17.7, 5.4, , 
+Cannon Hill, , 0.015, , , 16.6, 7.8, , 
+Brisbane CBD, , , , , 16.8, , , 28
+Woolloongabba, 0.008, , 0, , 24.3, 15.1, , 
+South Brisbane, 0.01, , 0.1, , 19.5, 9.2, , 
+Rocklea, 0.005, 0.012, , , 16.4, 8.3, , 40
+Springwood, 0.012, , , , 15, 7.9, , 
+North Maclean, 0.003, 0.007, , , , , , 
+Southport, 0.002, 0.024, , , 17.9, 8, , 
+Flinders View, 0.002, 0.012, , , 21.5, , , 49
+Mutdapilly, 0.003, 0.012, , , , , , 

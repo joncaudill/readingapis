@@ -1,0 +1,6 @@
+Site, DateTime, Water Level, Prediction, Residual
+abellpoint, 2025-05-15T00:00, 3.333, 3.118, 0.215
+abellpoint, 2025-05-15T00:10, 3.310, 3.100, 0.210
+abellpoint, 2025-05-15T00:20, 3.263, 3.073, 0.190
+abellpoint, 2025-05-15T00:30, 3.208, 3.038, 0.170
+abellpoint, 2025-05-15T00:40, 3.153, 2.995, 0.158
